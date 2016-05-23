@@ -1,6 +1,7 @@
 # Comment
 tempfile.txt
 .DS_Store
+temp.txt
 *.zip
 *.gz
 log/*.log
